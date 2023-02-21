@@ -6,10 +6,6 @@
   font-family: "century gothic";
 }
 
-header h1 {
-  display: inline-block;
-}
-
 body {
   background-color: rgb(149, 64, 185);
   background-image: url(imagens/withcher.jpg);
@@ -20,7 +16,7 @@ body {
 
 div {
   text-align: center;
-  margin-top: 50px;
+  margin-top: 10px;
   margin-bottom: 40px;
   font-size: 2em;
   color: white;
